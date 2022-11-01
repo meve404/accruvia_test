@@ -1,5 +1,0 @@
-user: accruvia_user
-pass: AccTest3355
-
-John Petters
-Testing Accruvia API
